@@ -1,0 +1,15 @@
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2.BL\bin\Debug\net7.0\lab 2.BL.deps.json
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2.BL\bin\Debug\net7.0\lab 2.BL.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2.BL\bin\Debug\net7.0\lab 2.BL.pdb
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2.BL\bin\Debug\net7.0\lab 2.DAL.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2.BL\bin\Debug\net7.0\lab 2.DAL.pdb
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2.BL\obj\Debug\net7.0\lab 2.BL.csproj.AssemblyReference.cache
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2.BL\obj\Debug\net7.0\lab 2.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2.BL\obj\Debug\net7.0\lab 2.BL.AssemblyInfoInputs.cache
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2.BL\obj\Debug\net7.0\lab 2.BL.AssemblyInfo.cs
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2.BL\obj\Debug\net7.0\lab 2.BL.csproj.CoreCompileInputs.cache
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2.BL\obj\Debug\net7.0\lab 2.BL.csproj.CopyComplete
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2.BL\obj\Debug\net7.0\lab 2.BL.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2.BL\obj\Debug\net7.0\refint\lab 2.BL.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2.BL\obj\Debug\net7.0\lab 2.BL.pdb
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2.BL\obj\Debug\net7.0\ref\lab 2.BL.dll

@@ -1,0 +1,87 @@
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\appsettings.Development.json
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\appsettings.json
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\lab 2.API.exe
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\lab 2.API.deps.json
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\lab 2.API.runtimeconfig.json
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\lab 2.API.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\lab 2.API.pdb
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Azure.Core.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Azure.Identity.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Humanizer.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\System.CodeDom.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\System.Memory.Data.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\lab 2.BL.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\lab 2.DAL.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\lab 2.BL.pdb
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\lab 2.DAL.pdb
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\obj\Debug\net7.0\lab 2.API.csproj.AssemblyReference.cache
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\obj\Debug\net7.0\lab 2.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\obj\Debug\net7.0\lab 2.API.AssemblyInfoInputs.cache
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\obj\Debug\net7.0\lab 2.API.AssemblyInfo.cs
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\obj\Debug\net7.0\lab 2.API.csproj.CoreCompileInputs.cache
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\obj\Debug\net7.0\lab 2.API.MvcApplicationPartsAssemblyInfo.cs
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\obj\Debug\net7.0\lab 2.API.MvcApplicationPartsAssemblyInfo.cache
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\obj\Debug\net7.0\staticwebassets\msbuild.lab 2.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\obj\Debug\net7.0\staticwebassets\msbuild.build.lab 2.API.props
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.lab 2.API.props
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.lab 2.API.props
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\obj\Debug\net7.0\staticwebassets.pack.json
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\obj\Debug\net7.0\staticwebassets.build.json
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\obj\Debug\net7.0\staticwebassets.development.json
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\obj\Debug\net7.0\scopedcss\bundle\lab 2.API.styles.css
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\obj\Debug\net7.0\lab 2.API.csproj.CopyComplete
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\obj\Debug\net7.0\lab 2.API.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\obj\Debug\net7.0\refint\lab 2.API.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\obj\Debug\net7.0\lab 2.API.pdb
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\obj\Debug\net7.0\lab 2.API.genruntimeconfig.cache
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\obj\Debug\net7.0\ref\lab 2.API.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\NUCLEAR\Courses\PD & BI\Web api\labs\lab 2\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
